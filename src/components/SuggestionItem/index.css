@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.suggestion-Item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0;
+}
+.suggestion-text {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0;
+  margin-left: 8px;
+}
+
+.suggestion-icon-button {
+  margin-right: 20px;
+  background-color: transparent;
+  border: none;
+}
+.arrow-icon {
+  height: 24px;
+  width: 24px;
+}
